@@ -1,0 +1,142 @@
+.bgwhite{
+		background: white;
+		min-height: 300px;
+	}
+
+	.wbody{
+		font-family: Arial;
+		font-size: 24px;
+		text-align: center;
+		margin-top: 115px;
+	}
+
+	.wbody1{
+		font-family: Arial;
+		font-size: 24px;
+		text-align: center;
+		margin-top: 235px;
+	}
+
+	.wbody2{
+		font-family: Arial;
+		margin-top: 190px;
+		text-align: center;
+	}
+
+	.wbody3{
+		font-family: Arial;
+		margin-top: 185px;
+		text-align: center;
+	}
+
+	.wbody4{
+		font-family: Arial;
+		margin-top: 220px;
+		text-align: center;
+	}
+
+	.wbody5{
+		font-family: Arial;
+		margin-top: 95px;
+		text-align: center;
+	}	
+
+	.wbody6{
+		font-family: Arial;
+		margin-top: 45px;
+		text-align: center;
+	}
+
+	.wbody7t{
+		font-family: arial;
+		font-size: 16px;
+		color: white;
+		margin-top: 105px;
+		padding: 20px;
+	}
+
+	.wbodyf1{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 90px;
+	}
+
+	.wbodyf2{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 40px;
+	}
+
+	.wbodyf3{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.wbodyf4{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.wbodyf5{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 75px;
+	}
+
+	.wbodyf5{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 75px;
+	}
+
+	.wbodyf6{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 35px;
+	}
+
+	.wbodyf7{
+		font-family: Arial;
+		text-align: center;
+		margin-top: 45px;
+	}
+
+	.wbodypft{
+		font-family: Arial;
+		margin-top: 85px;
+		text-align: center;
+	}
+
+	.tinyfeaturesl{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: left;
+	}
+
+	.tinyfeaturess{
+		font-size: 20px;
+		text-align: left;
+		color: #898989;
+	}
+
+	.tinyp{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+		margin-top: 25px;
+	}
+
+	.pr h5:after{
+		content: '';
+		position: absolute;
+		bottom: 85px;
+		width: 40px;
+		border: 2px solid #000;
+		left: 0;
+		right: 0;
+		margin-left: auto;
+		margin-right: auto;
+		background: #000;
+	}

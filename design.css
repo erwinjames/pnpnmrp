@@ -1,0 +1,78 @@
+.container{
+	width: 100%;
+}
+
+hr{
+  border-top: 1px solid;
+  width: 75%;
+  margin-top: 2px;
+}
+
+
+#ui{
+	background: white;
+	padding: 30px;
+	width: 75%;
+	margin: 5% 6% 5% 12.5%;
+	border-radius: 5px;
+}
+
+body{
+	font-style: arial;
+	background: rgb(0,51,93);
+}
+
+img{
+	height: 110px;
+	width: 125px;
+}
+
+.logo{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 5px 10px;
+  box-sizing: border-box;
+}
+
+#cntrlnumber{
+	margin-bottom: 5%;
+}
+
+p{
+	font-size: 25px;
+}
+
+.submit{
+  width: 100%;
+  padding: 5px 10px;
+  box-sizing: border-box;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+/*#img-upload{
+    width: 100%;
+}*/

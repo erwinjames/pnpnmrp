@@ -1,0 +1,18 @@
+form{
+	height: 25%;
+	width: 90%;
+	background-color: blue;
+	box-sizing: 50%;
+	margin: 5%;
+
+}
+
+.form-control{
+	height: 10px;
+	width: 25%;
+	padding: 25px;
+}
+
+.form-group{
+	padding: 15px;
+}
