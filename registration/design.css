@@ -1,0 +1,86 @@
+
+/** First Part **/
+
+body{
+	font-family: arial;
+	font-size: 16px;
+}
+
+.home{
+	background: white;
+	min-height: 150px;
+}
+
+.header{
+	padding-top: 30px;
+}
+
+hr.line{
+	border-top: 1px solid #8c8b8b;
+}
+
+#accntnumber{
+	height: 50%;
+}
+
+#accntnumberlabel{
+	padding-top: 15px;
+	padding-left: 135px;
+}
+
+.content1{
+	font-family: Arial;
+	font-size: 20px;
+	text-align: left;
+	color: black;
+}
+
+.note{
+	margin-top: 20px;
+	font-size: 16px;
+	text-align: center;
+	color: red;	
+}
+
+.accountinfolast{
+	padding-bottom: 25px;
+}
+
+.accntinfo{
+	width: 50%;
+	height: 50px;
+}
+
+.info{
+	padding-top: 5%;
+}
+
+/** Second Part **/
+
+.personalinfo input{
+	width: 95%;
+	height: 50px;
+}
+
+.bgwhite{
+	background: white;
+	min-height: 300px;
+}
+	
+input[type=text]{
+  	width: 100%;
+  	padding: 12px 20px;
+  	margin: 10px 0;
+  	display: inline-block;
+  	border: 1px solid black;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+}
+
+.personalinfolast{
+	padding-bottom: 25px;
+}
+
+*{
+	scroll-behavior: smooth;
+}
